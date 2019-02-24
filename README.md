@@ -1,7 +1,7 @@
-# AnonCoin-Blockchain-Explorer
-Block explorer for AnonCoin CryptoNote based cryptocurrency.
+# AnonTech-Blockchain-Explorer
+Block explorer for AnonTch CryptoNote based cryptocurrency.
 
-![Logo](https://github.com/anoncoinonline/AnonCoin/blob/development/src/Wallet/anoncoin.png)
+![Logo](https://github.com/anoncoinonline/anontech-wallet-go/blob/master/anontech.png)
 
 #### Installation
 
